@@ -1,2 +1,5 @@
 # minecoloniesbiomesyoullgodatapack
 Enable better integration between the Oh The Biomes You'll Go mod and Minecolonies
+
+
+Datapack from Shadizar to enable better integration between the Oh The Biomes You'll Go mod and Minecolonies. This is tested on Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.13 and later; datapack is untested on prior versions of BYG.
