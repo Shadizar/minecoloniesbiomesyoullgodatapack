@@ -1,0 +1,24 @@
+{
+  "type" : "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+        "item" : "byg:lament_log",
+        "count": 1
+    }
+  ],
+  "alternate-output" : [
+    {
+        "item" : "byg:lament_wood",
+        "count": 1
+    },
+    {
+        "item" : "byg:stripped_lament_wood",
+        "count": 1
+    }
+  ],
+  "result": "byg:stripped_lament_log",
+  "count": 1,
+  "tool": "axe",
+  "intermediate" : "minecraft:air"
+}

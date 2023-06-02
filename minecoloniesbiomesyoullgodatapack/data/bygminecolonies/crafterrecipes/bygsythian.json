@@ -1,0 +1,24 @@
+{
+  "type" : "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+        "item" : "byg:sythian_stem",
+        "count": 1
+    }
+  ],
+  "alternate-output" : [
+    {
+        "item" : "byg:sythian_hyphae",
+        "count": 1
+    },
+    {
+        "item" : "byg:stripped_sythian_hyphae",
+        "count": 1
+    }
+  ],
+  "result": "byg:stripped_sythian_stem",
+  "count": 1,
+  "tool": "axe",
+  "intermediate" : "minecraft:air"
+}

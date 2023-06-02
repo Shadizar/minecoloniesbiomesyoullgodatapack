@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "byg:dacite_tile",
+    "byg:yellow_nether_bricks",
+    "byg:blue_nether_bricks",
+    "byg:chiseled_fungal_imparius"
+  ]
+}

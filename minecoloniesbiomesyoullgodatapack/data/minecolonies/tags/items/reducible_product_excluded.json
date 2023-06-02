@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "byg:pendorite_ingot",
+    "byg:embur_gel_block",
+    "byg:raw_pendorite_block",
+    "byg:subzero_crystal_block",
+    "byg:chiseled_therium"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:biomesyoullgo",
+  "name": "Ametrine Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned crafting recipes that use Ametrine.",
+  "icon": "byg:ametrine_gems",
+  "requirements": [
+    {
+      "building": "blacksmith",
+      "level": 5
+    },
+    {
+      "item": "byg:ametrine_gems",
+      "quantity": 16
+    }
+  ]
+}

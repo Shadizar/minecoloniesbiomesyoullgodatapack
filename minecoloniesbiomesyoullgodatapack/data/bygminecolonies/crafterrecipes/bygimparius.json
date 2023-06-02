@@ -1,0 +1,14 @@
+{
+  "type" : "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+        "item" : "byg:imparius_stem",
+        "count": 1
+    }
+  ],
+  "result": "byg:imparius_hyphae",
+  "count": 1,
+  "tool": "axe",
+  "intermediate" : "minecraft:air"
+}

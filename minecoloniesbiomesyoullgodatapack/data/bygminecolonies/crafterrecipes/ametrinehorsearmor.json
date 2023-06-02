@@ -1,0 +1,15 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+        "item" : "byg:ametrine_gems",
+        "count": 7
+    }
+  ],
+  "result": "byg:ametrine_horse_armor",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "research-id": "bygminecolonies:biomesyoullgo/ametrinegear",
+  "min-building-level": 5
+}

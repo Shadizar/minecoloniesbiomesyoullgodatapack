@@ -1,0 +1,14 @@
+{
+  "type" : "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+        "item" : "byg:withering_oak_log",
+        "count": 1
+    }
+  ],
+  "result": "byg:withering_oak_wood",
+  "count": 1,
+  "tool": "axe",
+  "intermediate" : "minecraft:air"
+}

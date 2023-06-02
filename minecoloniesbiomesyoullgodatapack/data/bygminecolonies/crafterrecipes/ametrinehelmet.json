@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:netherite_helmet",
+        "count": 1
+    },
+    {
+        "item" : "byg:ametrine_block",
+        "count": 1
+    }
+  ],
+  "result": "byg:ametrine_helmet",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "research-id": "bygminecolonies:biomesyoullgo/ametrinegear",
+  "min-building-level": 5
+}

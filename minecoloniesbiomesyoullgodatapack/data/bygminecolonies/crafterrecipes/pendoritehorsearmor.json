@@ -1,0 +1,15 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+        "item" : "byg:pendorite_ingot",
+        "count": 7
+    }
+  ],
+  "result": "byg:pendorite_horse_armor",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "research-id": "bygminecolonies:biomesyoullgo/pendorite",
+  "min-building-level": 5
+}

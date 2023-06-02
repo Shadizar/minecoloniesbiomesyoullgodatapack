@@ -1,0 +1,24 @@
+{
+  "type" : "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+        "item" : "byg:aspen_log",
+        "count": 1
+    }
+  ],
+  "alternate-output" : [
+    {
+        "item" : "byg:aspen_wood",
+        "count": 1
+    },
+    {
+        "item" : "byg:stripped_aspen_wood",
+        "count": 1
+    }
+  ],
+  "result": "byg:stripped_aspen_log",
+  "count": 1,
+  "tool": "axe",
+  "intermediate" : "minecraft:air"
+}

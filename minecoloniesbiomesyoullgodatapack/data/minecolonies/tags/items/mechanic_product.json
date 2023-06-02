@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "byg:raw_pendorite_block",
+    "byg:embur_gel_block",
+    "byg:embur_gel_ball",
+    "byg:boric_lantern",
+    "byg:hanging_bones",
+    "byg:quartzite_sand",
+    "byg:glowstone_lamp",
+    "byg:therium_lantern",
+    "byg:therium_lamp"
+  ]
+}

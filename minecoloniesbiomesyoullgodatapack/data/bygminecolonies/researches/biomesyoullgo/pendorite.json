@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:biomesyoullgo",
+  "name": "Pendorite Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned crafting recipes for Pendorite.",
+  "icon": "byg:pendorite_scraps",
+  "requirements": [
+    {
+      "building": "blacksmith",
+      "level": 5
+    },
+    {
+      "item": "byg:pendorite_scraps",
+      "quantity": 8
+    }
+  ]
+}

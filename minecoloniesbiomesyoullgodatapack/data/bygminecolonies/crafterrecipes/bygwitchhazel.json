@@ -1,0 +1,24 @@
+{
+  "type" : "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+        "item" : "byg:witch_hazel_log",
+        "count": 1
+    }
+  ],
+  "alternate-output" : [
+    {
+        "item" : "byg:witch_hazel_wood",
+        "count": 1
+    },
+    {
+        "item" : "byg:stripped_witch_hazel_wood",
+        "count": 1
+    }
+  ],
+  "result": "byg:stripped_witch_hazel_log",
+  "count": 1,
+  "tool": "axe",
+  "intermediate" : "minecraft:air"
+}
